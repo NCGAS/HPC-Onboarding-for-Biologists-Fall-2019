@@ -3,7 +3,7 @@ Supercomputing For Everyone Series: HPC Onboarding for Biologists
 
 **Dates** –August 29th and August 30th, 2019 \
 **Location Aug 29th** – IUPUI  \
-**Location Aug 30th** - IU,Bloomington \
+**Location Aug 30th** - IU,Bloomington 
 
 # Workshop Information
 The National Center for Genome Analysis Support (NCGAS) provides this high performance computing (HPC) workshop to help new users learn about HPC resources available to them, other course offerings, and NCGAS services.
