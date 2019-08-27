@@ -29,7 +29,7 @@ A laptop is required—if you do not have one, contact the organizer to borrow o
 
 ## More information 
 Slides and Presentations - Coming up \
-Supercomputing for everyone workshops offered list- https://ittraining.iu.edu/events/index.html \
+Supercomputing for everyone workshops offered list- https://ittraining.iu.edu/events/index.html
 NCGAS workshops list - https://ncgas.org/Workshops.php \
 
 
