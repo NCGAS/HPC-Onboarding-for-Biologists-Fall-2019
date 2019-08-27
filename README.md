@@ -28,7 +28,7 @@ By the end of this workshop, participants should leave with the following knowle
 A laptop is required—if you do not have one, contact the organizer to borrow one
 
 ## More information 
-Slides and Presentations - Coming up \
+Slides and Presentations - https://iu.box.com/s/9nk5tna9ghei8wjp1yokkf2ldqqrtlth \
 Supercomputing for everyone workshops- https://ittraining.iu.edu/events/index.html \
 NCGAS workshops - https://ncgas.org/Workshops.php 
 
