@@ -25,12 +25,12 @@ By the end of this workshop, participants should leave with the following knowle
 - NCGAS resources/UITS offerings—IT Training, workshops, etc.
 
 ## Prerequisites:
-A laptop is required—if you do not have one, contact the organizer to borrow one
+A laptop is required—if you do not have one, contact the organizer to borrow one. 
 
 ## More information 
 Slides and Presentations - https://iu.box.com/s/9nk5tna9ghei8wjp1yokkf2ldqqrtlth \
 Supercomputing for Everyone workshops- https://ittraining.iu.edu/events/index.html \
-NCGAS workshops - https://ncgas.org/Workshops.php 
+NCGAS workshops - https://ncgas.org/Workshops.php \
 NCGAS Welcome basket - https://ncgas.org/WelcomeBasket.php
 
 
